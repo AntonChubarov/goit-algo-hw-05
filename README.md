@@ -1,2 +1,5 @@
-# goit-algo-hw-05
-Search algorithms
+# ДЗ Алгоритми пошуку
+
+## Висновки
+
+1. Lorem...;
